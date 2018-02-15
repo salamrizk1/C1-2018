@@ -1,3 +1,3 @@
 # C1-2018
 
-Mon projet est Gradle 
+Mon projet est JBoss 
